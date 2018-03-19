@@ -1,0 +1,14 @@
+C:\Users\Andrii\source\repos\PMC\PMC\bin\Debug\PMC.exe.config
+C:\Users\Andrii\source\repos\PMC\PMC\bin\Debug\PMC.exe
+C:\Users\Andrii\source\repos\PMC\PMC\bin\Debug\PMC.pdb
+C:\Users\Andrii\source\repos\PMC\PMC\obj\Debug\PMC.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\source\repos\PMC\PMC\obj\Debug\PMC.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\PMC\PMC\obj\Debug\PMC.exe
+C:\Users\Andrii\source\repos\PMC\PMC\obj\Debug\PMC.pdb
+C:\Users\Andrii\Documents\PMC\PMC\bin\Debug\PMC.exe.config
+C:\Users\Andrii\Documents\PMC\PMC\bin\Debug\PMC.exe
+C:\Users\Andrii\Documents\PMC\PMC\bin\Debug\PMC.pdb
+C:\Users\Andrii\Documents\PMC\PMC\obj\Debug\PMC.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Documents\PMC\PMC\obj\Debug\PMC.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Documents\PMC\PMC\obj\Debug\PMC.exe
+C:\Users\Andrii\Documents\PMC\PMC\obj\Debug\PMC.pdb
