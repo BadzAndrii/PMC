@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace PMC
 {
-    class Point<T>
+    class Point<T> where T : struct
     {
-        public T myX { get; private set; }
+        public T X { get; private set; }
         public Point(T x)
         {
-            myX = x;
+            X = x;
         }
     }
 }

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace PMC
 {
-    class Point2D<T> : Point<T>
+    class Point2D<T> : Point<T> where T : struct
     {
-        public T myY { get; private set; }
+        public T Y { get; private set; }
 
         public Point2D(T x,T y) : base(x)
         {
-            myY = y;
+            Y = y;
         }
     }
 }

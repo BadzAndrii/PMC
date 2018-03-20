@@ -7,5 +7,6 @@ using System.Threading.Tasks;
 
 namespace PMC
 {
-    class Position<TPoint, TNumeric> : Collection<TPoint> where TNumeric : struct { }
+    class Matrix<TPoint, TNumeric> : Collection<Position<TPoint, TNumeric>> where TNumeric : struct { }
+
 }
